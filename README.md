@@ -23,6 +23,7 @@ AI systems, custom agents, and automations for businesses.
 
 ### **ZerioBox**
 AI-powered inbox automation — turning Gmail chaos into Inbox Zero by default.
+MVP is available at https://zeriobox.com
 
 ### **Monthly Tools**
 I'm building **1 tool every month** until I reach **10k MRR**.  
