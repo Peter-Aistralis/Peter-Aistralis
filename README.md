@@ -6,6 +6,16 @@ I’m currently documenting my journey as an indie AI builder and building a sui
 
 ---
 
+## Python Tutorials - check *Peter Wettinck | Aistralis Automations* on YT
+in here you find all the scripts (and small summaries) of the Python tutorials published on my YouTube channel.
+1. LLMs and AI Agents (build your first AI Agent in pure Python - no frameworks). Beyond the basics
+   - Basic LLM call
+   - Tool calling
+   - Sequential tool calling
+   - Parallel tool calling
+   - React (your first full AI Agent)
+  
+---
 ## 🎥 YouTube — *Peter Wettinck | Aistralis Automations*
 I post weekly videos on:
 - AI agents (Python)
